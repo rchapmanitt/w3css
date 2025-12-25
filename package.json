@@ -1,0 +1,22 @@
+[
+  {
+    "name": "w3.css"
+  },
+  {
+    "version": "4.15.0",
+    "releaseDate": "2020-12",
+    "description": "W3.css front-end web development framework.",
+    "notes": "See changelog.txt",
+    "main": "w3.css"
+  },
+  {
+    "version": "5.02.0",
+    "releaseDate": "2025-03-31",
+    "description": "W3.css front-end web development framework.",
+    "notes": "See changelog.txt",
+    "main": "w3.css"
+  }
+    "author": "Jan Egil and Borge Refsnes",
+    "license": "MIT",
+    "homepage": "https://www.w3schools.com/w3css/default.asp",
+]
