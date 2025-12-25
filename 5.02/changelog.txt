@@ -1,0 +1,28 @@
+----------------------
+w3.css v5.02 - 03/2025
+----------------------
+Changelog
+---------------------- 	
+
+Added w3-grid
+Added w3-flex
+Added w3-text-center
+Added w3-text-bold
+Added w3-text-italic
+
+Added New Colors:
+w3-paper
+w3-asphalt
+w3-crimson
+w3-cobalt
+w3-emerald
+w3-olive
+w3-taupe
+w3-sienna
+
+Added Color Types:
+w3-success
+w3-warning
+w3-info
+w3-danger
+w3-info
