@@ -1,0 +1,10 @@
+----------------------
+w3.css v4.15 - 12/2020
+----------------------
+Changelog
+---------------------- 	
+
+Supplemented w3-serif with
+w3-sans-serif
+w3-cursive
+w3-monospace
